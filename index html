@@ -1,0 +1,54 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SOUPERINTELLIGENCE.NET</title>
+
+    <style>
+        body {
+            margin: 0;
+            background: white;
+            color: black;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+        }
+
+        main {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        h1 {
+            font-size: 3rem;
+            letter-spacing: 0.08em;
+            margin: 0 0 2rem;
+        }
+
+        .coming {
+            font-size: 1.4rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .tagline {
+            font-size: 1rem;
+            font-style: italic;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <h1>SOUPERINTELLIGENCE.NET</h1>
+
+        <div class="coming">Coming soon</div>
+
+        <div class="tagline">
+            When Super Intelligence Is Dumber Than Soup
+        </div>
+    </main>
+</body>
+</html>
